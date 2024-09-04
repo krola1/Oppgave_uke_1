@@ -1,0 +1,14 @@
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\bin\Debug\net8.0\Oppgave_uke_1.exe
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\bin\Debug\net8.0\Oppgave_uke_1.deps.json
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\bin\Debug\net8.0\Oppgave_uke_1.runtimeconfig.json
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\bin\Debug\net8.0\Oppgave_uke_1.dll
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\bin\Debug\net8.0\Oppgave_uke_1.pdb
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\Oppgave_uke_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\Oppgave_uke_1.AssemblyInfoInputs.cache
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\Oppgave_uke_1.AssemblyInfo.cs
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\Oppgave_uke_1.csproj.CoreCompileInputs.cache
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\Oppgave_uke_1.dll
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\refint\Oppgave_uke_1.dll
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\Oppgave_uke_1.pdb
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\Oppgave_uke_1.genruntimeconfig.cache
+C:\Users\larsw\Documents\Koding\C#\Oppgave_uke_1\obj\Debug\net8.0\ref\Oppgave_uke_1.dll
